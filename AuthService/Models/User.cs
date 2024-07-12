@@ -8,7 +8,7 @@
         public string Username { get; set; }
         public string EmailId { get; set; }
         public string Password { get; set; }
-        public string Salt { get; set; }
-        public ICollection<UserRole> UserRoles { get; set; }
+        public string Salt { get; set; } = Guid.NewGuid().ToString();
+        public ICollection<UserRole> UserRoles { get; set; } = new List<UserRole>();
     }
 }
