@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Em1Cr6YbEgpZTAdX+0JAAlBSb6nlHJoM9wpqgU4/98q2zInszXajn4TKu76tNybJm21IzwrfowOU77QAjXIW4A==",
+  "dgSpecHash": "HiGAx69jqmHRLpNOzY7vcwnwO6E52Xd+C5RZwrzD9rX0QXaA7xTgA8HjBm8hVU2oueiGJ5vtzm2XQ/UGc6A6gA==",
   "success": true,
   "projectFilePath": "D:\\projects\\c_sharp\\EShop_final_0711\\AuthService\\AuthService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\darth\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
+    "C:\\Users\\darth\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
     "C:\\Users\\darth\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\darth\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\darth\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.7\\microsoft.aspnetcore.authentication.jwtbearer.8.0.7.nupkg.sha512",
@@ -51,6 +51,7 @@
     "C:\\Users\\darth\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\darth\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "C:\\Users\\darth\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\darth\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\darth\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\darth\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\darth\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",

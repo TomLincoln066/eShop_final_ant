@@ -5,6 +5,7 @@ USER app
 WORKDIR /app
 EXPOSE 8080
 EXPOSE 8081
+ENV Eshop="Server=tcp:eshop-will.database.windows.net,1433;Initial Catalog=Authentication;Persist Security Info=False;User ID=will;Password=wersdftT069!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
 
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
